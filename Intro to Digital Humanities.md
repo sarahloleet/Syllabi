@@ -7,4 +7,4 @@ Sarah Noonan, 221 Spes Unica
 - *title*
 - *title*
 
-And a [link] (dhsouthbend.ord)
+And a [link] (dhsouthbend.org)
