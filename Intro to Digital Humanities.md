@@ -9,4 +9,4 @@ Sarah Noonan, 221 Spes Unica
 
 And a [link](https://dhsouthbend.org) 
 
-And how to add an image? ![a test image!](/images/Textualis example.jpg)
+And how to add an image? ![a test image](/images/Textualis example.jpg)
