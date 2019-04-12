@@ -9,4 +9,4 @@ Sarah Noonan, 221 Spes Unica
 
 And a [link](https://dhsouthbend.org) 
 
-And how to add an image? ![a test image!](https://drive.google.com/open?id=1Dkg0IieU8JR7dqUsCpH_hovf3FWrU_YA)
+And how to add an image? ![a test image!](/images/textualisexample.jpg)
