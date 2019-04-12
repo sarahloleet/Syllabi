@@ -9,5 +9,4 @@ Sarah Noonan, 221 Spes Unica
 
 And a [link](https://dhsouthbend.org) 
 
-And how to add an image? ![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
-![a test image](/
+And how to add an image? ![a test image!](https://drive.google.com/open?id=1Dkg0IieU8JR7dqUsCpH_hovf3FWrU_YA)
